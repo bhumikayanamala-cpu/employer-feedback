@@ -1,13 +1,9 @@
-# Employer Feedback System
-
-This repository contains the employer feedback dataset/project files.
-
 ## Contents
-- `employer_feedback 2.zip` – Project files (tracked using Git LFS)
 
-## Notes
-- Large files are managed using Git Large File Storage (Git LFS).
-- Repository created and maintained for academic/project purposes.
+- employer_feedback/ – Project source code
+  - app.py – Main application
+  - nlp_utils.py – NLP utilities
+  - train_model.py – Model training script
+  - templates/ – HTML templates
+  - glassdoor-companies-reviews.csv – Dataset
 
-## Author
-Bhumika
